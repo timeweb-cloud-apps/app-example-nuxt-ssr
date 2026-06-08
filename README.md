@@ -2,7 +2,7 @@
 
 Пример приложения Nuxt SSR, которое можно развернуть в Timeweb Cloud Apps без настройки.
 
-🎉 [Демо](https://timeweb-cloud-apps-app-example-nuxt-ssr-9deb.twc1.net/)
+🎉 [Демо](https://twc-app-example-nuxt-ssr.twc1.net/)
 
 🚀 [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
